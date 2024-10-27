@@ -31,19 +31,21 @@
         {
             "tooltip": "read if cute",
             "badge": "https://badges.vencord.dev/badges/343383572805058560/8-95d023a752f079b1aa38d1d0fec828bae5d1d4bd.gif"
-        }
-    ],
-    "675381300852686850": [
-        {
-            "tooltip": "Diego is gay",
-            "badge": "https://badges.vencord.dev/badges/579731384868798464/1-6958782509a14465d26c24e19f2564d3da7c9618.gif"
         },
-    ],
-    "1089619954975920238": [
         {
             "tooltip": "Empleado de Discord",
-            "badge": "https://github.com/Kira-Kohler/Discord-Badges/blob/main/DiscordStaff.png"
+            "badge": "https://badges.vencord.dev/badges/343383572805058560/8-95d023a752f079b1aa38d1d0fec828bae5d1d4bd.gif"
+        }
+    ],
+    "579731384868798464": [
+        {
+            "tooltip": "read if gay",
+            "badge": "https://badges.vencord.dev/badges/579731384868798464/1-6958782509a14465d26c24e19f2564d3da7c9618.gif"
         },
+        {
+            "tooltip": "read if cute",
+            "badge": "https://badges.vencord.dev/badges/579731384868798464/3-ce32c7aa6082b028814e0c8893a1cdb51ab67301.gif"
+        }
     ],
     "79427255851298816": [
         {
@@ -8411,10 +8413,10 @@
             "badge": "https://badges.vencord.dev/badges/1262793452236570667/1-06cec577fc6241686a5425f2d1eb10fbcf276b4a.gif"
         }
     ],
-    "675381300852686850": [
+    "1220818544913027133": [
         {
-            "tooltip": "Marica supremo",
-            "badge": "https://autumn.revolt.chat/attachments/RvTw95eB24z-IyKW3dKMi8e1NOsS6MJwxL5VVPGinb/LGBT.png"
+            "tooltip": "セヤナ",
+            "badge": "https://badges.vencord.dev/badges/1220818544913027133/1-25b81be0179383d9c48e360e67734551231278dc.gif"
         }
     ],
     "422218161081942016": [
@@ -8425,14 +8427,18 @@
     ],
     "839217437383983184": [
         {
+            "tooltip": "Creator of K1R4FN",
+            "badge": "https://autumn.revolt.chat/attachments/BPPazmHEQs6dgZm16vSbe277C7rvB_kN-OV_bFGueX/K1R4FN.png"
+        },
+        {
             "tooltip": "Kiro my love",
             "badge": "https://autumn.revolt.chat/attachments/eqjkPCc49-e2OrmTHXiYK2iyUjCbB9qgqKxJ80mKN2/heart.png"
         }
     ],
-        "1113533416479129661": [
+    "675381300852686850": [
         {
-            "tooltip": "Kira my love",
-            "badge": "https://autumn.revolt.chat/attachments/eqjkPCc49-e2OrmTHXiYK2iyUjCbB9qgqKxJ80mKN2/heart.png"
+            "tooltip": "Diego is gay",
+            "badge": "https://badges.vencord.dev/badges/579731384868798464/1-6958782509a14465d26c24e19f2564d3da7c9618.gif"
         }
     ]
 }
